@@ -1,0 +1,2 @@
+# madrasahku
+Sistem Informasi Madrasah
